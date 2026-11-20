@@ -1,2 +1,2 @@
 # hackathon_project
-cikada hackathon project 
+cicada hackathon project 
